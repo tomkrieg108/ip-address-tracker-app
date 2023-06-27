@@ -80,7 +80,7 @@ function HomePage() {
   return (
     <div className="bg-gray-300 h-screen flex flex-col justify-center items-center">
       {/* content box */}
-      <div className="flex flex-col justify-between h-full w-full shadow-2xl ipat-max-width md:w-full md:h-full ">
+      <div className="flex flex-col justify-between h-full w-full shadow-2xl ipat-max-width md:full md:h-full ">
         {/* Banner */}
         <div className="ipat-banner relative flex flex-col justify-start items-center">
           <h1 className="text-3xl text-white font-bold mt-8">
